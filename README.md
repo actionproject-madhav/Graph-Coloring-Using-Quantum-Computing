@@ -6,7 +6,6 @@ Given 4 nodes to be coloured using 4 colours, we represent each color using 2 bi
 ![image](https://github.com/user-attachments/assets/7d5005c5-d6de-4c29-87e5-0c1d37a19413)
 
 
-![image](https://github.com/user-attachments/assets/401dc219-6e25-4148-94b0-60ca46115d79)
 
 We visualize the results in the histogram and look for the most likely outcomes which will give us the proper colouring of graph:
 
